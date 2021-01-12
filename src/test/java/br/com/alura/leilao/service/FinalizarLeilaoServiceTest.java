@@ -1,7 +1,5 @@
 package br.com.alura.leilao.service;
 
-import static org.mockito.Mockito.mockitoSession;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
